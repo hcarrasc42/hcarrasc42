@@ -24,12 +24,14 @@ Working through 42's specialization track toward RNCP Level 6 — next up:
 
 ## Philosophy
 
-> *"Is the sky's boundless blue its true color — or only the effect of an infinite distance?"*
-> — Zhuangzi (Chuang Tzu), *Free and Easy Wandering*
-
-I don't take things for granted. I look for the root of the problem — the fundamental layer everything else is built on — rather than settle for surface abstractions that already assume too much. Even the sky's blue isn't as certain as it looks.
-
-What drives that questioning is *pothos* (πόθος) — the term used to describe Alexander the Great's restless longing to see what lay beyond the known world. It's the same fire: an insatiable pull toward what hasn't been discovered, understood, or questioned yet. Nothing "good enough" holds my attention for long.
+> **"Is the sky's blue its true color, or only the effect of distance and boundlessness?"**
+> — Zhuangzi
+>
+> What we observe isn't always what's fundamental. We often mistake the forms something takes for whatever produces them, and build our understanding on assumptions we never stop to question.
+>
+> So when I try to understand something, I look through its complexity for the principles underlying it — a simpler, more general level, one that depends less on particular circumstances and holds beyond the case at hand. **The more fundamental an understanding is, the more it can generalize and transfer.**
+>
+> Seeking what's fundamental means doing more with less: **understanding more with fewer assumptions, and building solutions that are simpler, more robust, and more transferable.**
 
 <br/>
 
