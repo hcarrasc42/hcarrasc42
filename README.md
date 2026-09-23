@@ -14,6 +14,18 @@ That trajectory points somewhere specific: **AI & algorithmic security** — des
 
 <br/>
 
+## Tech Stack
+
+**Core**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,linux,bash,docker&theme=dark" />
+
+**Also used**
+
+<img src="https://skillicons.dev/icons?i=js,angular,python&theme=dark" />
+
+<br/>
+
 ## Currently building
 
 Working through 42's specialization track toward RNCP Level 6 — next up:
