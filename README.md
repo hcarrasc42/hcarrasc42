@@ -6,9 +6,11 @@
 
 ## About
 
-I'm a systems & security engineer in training at **42 Urduliz**, working toward the **RNCP Level 6** qualification. My focus right now is low-level programming, OS internals, and the fundamentals of offensive security — the base I'm building toward a longer-term specialization in **AI & algorithmic security**: designing systems that detect, contain, and defend against malicious or harmful autonomous algorithms.
+I'm a systems & security engineer in training at **42 Urduliz**, near Bilbao — a project-based school with no lectures and no professors: you build things, break them, and get reviewed by peers who tore theirs apart before you. I'm working through it toward the **RNCP Level 6** qualification.
 
-This profile is the structure I'm building ahead of time — not a job search yet, but the foundation for one.
+So far that's meant process management and concurrency (**minishell**, **philosopher**), Linux systems administration and containerized infrastructure (**inception**), and building a raycasting engine from scratch in C (**cube3D**). What's next stays on the same track — virtual machines, binary packers, and ELF infection (**Corewar**, **Woody Woodpacker**, **Famine**, **Pestilance**) — going deeper into offensive security fundamentals.
+
+That trajectory points somewhere specific: **AI & algorithmic security** — designing systems that detect, contain, and defend against malicious or misbehaving autonomous algorithms. I'm not working on that yet; the fundamentals above are what make it possible later. This profile is the structure I'm building ahead of time — the foundation for what comes next.
 
 <br/>
 
