@@ -24,14 +24,13 @@ Working through 42's specialization track toward RNCP Level 6 — next up:
 
 ## Philosophy
 
-> **"Is the sky's blue its true color, or only the effect of distance and boundlessness?"**
-> — Zhuangzi
+> **"Is the sky's blue its true color, or only the effect of distance and boundlessness?"** — Zhuangzi
 >
-> What we observe isn't always what's fundamental. We often mistake the forms something takes for whatever produces them, and build our understanding on assumptions we never stop to question.
+> What we observe isn't always what's fundamental. We often mistake the forms something takes for whatever produces them, and build our understanding on assumptions we rarely stop to question.
 >
-> So when I try to understand something, I look through its complexity for the principles underlying it — a simpler, more general level, one that depends less on particular circumstances and holds beyond the case at hand. **The more fundamental an understanding is, the more it can generalize and transfer.**
+> When I try to understand something, I look beyond its particular details and ask what remains true underneath them. I'm interested in principles that survive changes in context — ideas that explain not just one case, but others like it. **The more fundamental an understanding is, the more it can generalize and transfer.**
 >
-> Seeking what's fundamental means doing more with less: **understanding more with fewer assumptions, and building solutions that are simpler, more robust, and more transferable.**
+> Seeking what's fundamental means doing more with less: **understanding more with fewer assumptions, and building solutions that generalize further, depend less on particulars, and remain robust across contexts.**
 
 <br/>
 
