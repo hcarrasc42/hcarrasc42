@@ -26,6 +26,24 @@ That trajectory points somewhere specific: **AI & algorithmic security** — des
 
 <br/>
 
+## Featured Projects
+
+**minishell** — A Unix shell built from scratch in C: parsing, pipes, redirections, built-ins, and signal handling. The project that forced me to actually understand how a process tree works, not just use one.
+*Built with: C · process management · signal handling*
+
+**philosopher** — The dining philosophers problem, solved with threads and mutexes. A deliberate exercise in making concurrent processes cooperate without deadlocking or starving each other.
+*Built with: C · multithreading · synchronization*
+
+**inception** — A small production-style infrastructure: NGINX, WordPress, and MariaDB, each containerized from a base image and orchestrated with Docker Compose — no pre-built service images allowed. Systems administration, not just `docker run`.
+*Built with: Docker · Linux · systems administration*
+
+**cube3D** — A raycasting engine in the style of early Wolfenstein, built in C with MiniLibX — no game engine, no shortcuts. Every wall, texture, and camera movement is math I wrote myself.
+*Built with: C · MiniLibX · computer graphics*
+
+<sub>Individual repos for each project are being cleaned up and published — links coming soon.</sub>
+
+<br/>
+
 ## Currently building
 
 Working through 42's specialization track toward RNCP Level 6 — next up:
