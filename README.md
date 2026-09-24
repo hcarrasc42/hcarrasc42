@@ -22,10 +22,6 @@ That trajectory points somewhere specific: **AI & algorithmic security** — des
 
 <img src="https://skillicons.dev/icons?i=js,angular,python&theme=dark" />
 
-**By language** (real weight across my published repos)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcarrasc42&layout=compact&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=E0F7FF&exclude_repo=42-projects" alt="Most used languages" />
-
 <br/>
 
 ## Featured Projects
