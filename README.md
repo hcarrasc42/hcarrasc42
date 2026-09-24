@@ -6,7 +6,7 @@
 
 I'm a systems & security engineer in training at **42 Urduliz**, near Bilbao — a project-based school with no lectures and no professors: you build things, break them, and get reviewed by peers who tore theirs apart before you. I'm working through it toward the **RNCP Level 6** qualification.
 
-So far that's meant process management and concurrency (**minishell**, **philosopher**), Linux systems administration and containerized infrastructure (**inception**), and building a raycasting engine from scratch in C (**cube3D**). What's next stays on the same track — virtual machines, binary packers, and ELF infection (**Corewar**, **Woody Woodpacker**, **Famine**, **Pestilance**) — going deeper into offensive security fundamentals.
+So far that's meant process management and concurrency (**minishell**, **philosophers**), Linux systems administration and containerized infrastructure (**inception**), and building a raycasting engine from scratch in C (**cub3d**). What's next stays on the same track — virtual machines, binary packers, and ELF infection (**Corewar**, **Woody Woodpacker**, **Famine**, **Pestilance**) — going deeper into offensive security fundamentals.
 
 That trajectory points somewhere specific: **AI & algorithmic security** — designing systems that detect, contain, and defend against malicious or misbehaving autonomous algorithms. I'm not working on that yet; the fundamentals above are what make it possible later. This profile is the structure I'm building ahead of time — the foundation for what comes next.
 
@@ -26,19 +26,17 @@ That trajectory points somewhere specific: **AI & algorithmic security** — des
 
 ## Featured Projects
 
-**minishell** — A Unix shell built from scratch in C: parsing, pipes, redirections, built-ins, and signal handling. The project that forced me to actually understand how a process tree works, not just use one.
-*Built with: C · process management · signal handling*
+**[minishell](https://github.com/hcarrasc42/minishell)** — A Unix shell built from scratch in C: parsing, pipes, redirections, built-ins, and signal handling. The project that forced me to actually understand how a process tree works, not just use one.
+*Built with: C · process management · signal handling · built in a pair*
 
-**philosopher** — The dining philosophers problem, solved with threads and mutexes. A deliberate exercise in making concurrent processes cooperate without deadlocking or starving each other.
+**[philosophers](https://github.com/hcarrasc42/philosophers)** — The dining philosophers problem, solved with threads and mutexes. A deliberate exercise in making concurrent processes cooperate without deadlocking or starving each other.
 *Built with: C · multithreading · synchronization*
 
-**inception** — A small production-style infrastructure: NGINX, WordPress, and MariaDB, each containerized from a base image and orchestrated with Docker Compose — no pre-built service images allowed. Systems administration, not just `docker run`.
+**[inception](https://github.com/hcarrasc42/inception)** — A small production-style infrastructure: NGINX, WordPress, and MariaDB, each containerized from a base image and orchestrated with Docker Compose — no pre-built service images allowed. Systems administration, not just `docker run`.
 *Built with: Docker · Linux · systems administration*
 
-**cube3D** — A raycasting engine in the style of early Wolfenstein, built in C with MiniLibX — no game engine, no shortcuts. Every wall, texture, and camera movement is math I wrote myself.
-*Built with: C · MiniLibX · computer graphics*
-
-<sub>Individual repos for each project are being cleaned up and published — links coming soon.</sub>
+**[cub3d](https://github.com/hcarrasc42/cub3d)** — A raycasting engine in the style of early Wolfenstein, built in C with MiniLibX — no game engine, no shortcuts. Every wall, texture, and camera movement is math I wrote myself.
+*Built with: C · MiniLibX · computer graphics · built in a pair*
 
 <br/>
 
