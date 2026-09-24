@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0033CC,100:00BFFF&height=220&section=header&text=hcarrasc42&fontColor=FFFFFF&fontSize=56&fontAlignY=38&animation=fadeIn&desc=Systems%20and%20Security%20Engineer%20%C2%B7%20Bilbao%2C%20Spain&descAlignY=58&descSize=18&descColor=E0F7FF" width="100%"/>
 </p>
 
-<br/>
-
 ## About
 
 I'm a systems & security engineer in training at **42 Urduliz**, near Bilbao — a project-based school with no lectures and no professors: you build things, break them, and get reviewed by peers who tore theirs apart before you. I'm working through it toward the **RNCP Level 6** qualification.
