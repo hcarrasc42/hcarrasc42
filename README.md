@@ -38,6 +38,12 @@ That trajectory points somewhere specific: **AI & algorithmic security** — des
 **[cub3d](https://github.com/hcarrasc42/cub3d)** — A raycasting engine in the style of early Wolfenstein, built in C with MiniLibX — no game engine, no shortcuts. Every wall, texture, and camera movement is math I wrote myself.
 *Built with: C · MiniLibX · computer graphics · built in a pair*
 
+**[webserv](https://github.com/hcarrasc42/webserv)** — An HTTP/1.1 server built from scratch in C++98: request parsing, static file serving, CGI execution, and a config file inspired by NGINX's syntax. Built as a team — the codebase is a shared effort, not split into individually-owned modules.
+*Built with: C++ · networking · HTTP · team project*
+
+**[ft_transcendence](https://github.com/hcarrasc42/ft_transcendence)** — A single-page web app built around a real-time multiplayer Pong tournament: accounts, auth, and a social/chat layer, with a Django backend and an Angular frontend, containerized with Docker Compose. Built as a team of several, same as webserv — a shared codebase rather than individually-owned modules.
+*Built with: Angular · Django · Docker · team project*
+
 <br/>
 
 ## Currently building
