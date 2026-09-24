@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045E,100:48CAE4&height=220&section=header&text=hcarrasc42&fontColor=FFFFFF&fontSize=56&fontAlignY=38&animation=fadeIn&desc=Systems%20and%20Security%20Engineer%20%C2%B7%20Bilbao%2C%20Spain&descAlignY=58&descSize=18&descColor=CAF0F8" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0033CC,100:00BFFF&height=220&section=header&text=hcarrasc42&fontColor=FFFFFF&fontSize=56&fontAlignY=38&animation=fadeIn&desc=Systems%20and%20Security%20Engineer%20%C2%B7%20Bilbao%2C%20Spain&descAlignY=58&descSize=18&descColor=E0F7FF" width="100%"/>
 </p>
 
 <br/>
@@ -75,5 +75,5 @@ Working through 42's specialization track toward RNCP Level 6 — next up:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045E,100:48CAE4&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0033CC,100:00BFFF&height=120&section=footer" width="100%"/>
 </p>
