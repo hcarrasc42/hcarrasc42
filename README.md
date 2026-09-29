@@ -16,11 +16,11 @@ That trajectory points somewhere specific: **AI & algorithmic security** — des
 
 **Core**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,linux,bash,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,linux,bash,docker,git,nginx&theme=dark" />
 
 **Also used**
 
-<img src="https://skillicons.dev/icons?i=js,angular,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,angular,python,django,postgres&theme=dark" />
 
 <br/>
 
