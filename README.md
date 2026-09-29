@@ -38,6 +38,9 @@ That trajectory points somewhere specific: **AI & algorithmic security** — des
 **[cub3d](https://github.com/hcarrasc42/cub3d)** — A raycasting engine in the style of early Wolfenstein, built in C with MiniLibX — no game engine, no shortcuts. Every wall, texture, and camera movement is math I wrote myself.
 *Built with: C · MiniLibX · computer graphics · built in a pair*
 
+**[darkly](https://github.com/hcarrasc42/darkly)** — A web-security project: finding, exploiting, and documenting 14 common web vulnerabilities — XSS, SQL injection, path traversal, broken authentication and more — with every write-up ending in how to prevent it. The closest thing so far to the direction I'm heading.
+*Built with: web security · OWASP · offensive & defensive · built in a pair*
+
 **[webserv](https://github.com/hcarrasc42/webserv)** — An HTTP/1.1 server built from scratch in C++98: request parsing, static file serving, CGI execution, and a config file inspired by NGINX's syntax. Built as a team — the codebase is a shared effort, not split into individually-owned modules.
 *Built with: C++ · networking · HTTP · team project*
 
